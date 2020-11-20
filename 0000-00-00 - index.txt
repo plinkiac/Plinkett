@@ -1,50 +1,50 @@
 mm/dd/yyyy | hh:mm:ss | x → transcript | title
 
-12/12/2008 | 00:29:44 | bit.ly/2H9TPcg | Star Trek: Generations Review
-05/06/2009 | 00:37:05 | bit.ly/3f5Kqz6 | Star Trek: First Contact Review
-06/10/2009 | 00:34:57 | bit.ly/38QDMf1 | Star Trek: Insurrection Review
-08/13/2009 | 00:38:22 | bit.ly/3pCCcmK | Star Trek: Nemesis
-12/10/2009 | 01:09:01 | bit.ly/32Umo5d | Star Wars: The Phantom Menace Review
-12/20/2009 | 00:06:31 | bit.ly/32Uxas3 | Phantom Menace Review Interview Outtakes
-01/31/2010 | 00:18:18 | bit.ly/2IB6iGT | Avatar Review
-04/03/2010 | 01:27:41 | bit.ly/3kMK69O | Mr. Plinkett's Attack of the Clones Review
-05/07/2010 | 00:05:02 | bit.ly/35DUo7v | Mr. Plinkett's Star Wars Episode II Outtakes
-06/17/2010 | 00:24:52 | bit.ly/35EXzfm | Baby's Day Out Review
-06/21/2010 | 00:00:47 | bit.ly/2UxZqfL | New Review Up
-07/15/2010 | 00:01:09 | bit.ly/3kGQD5M | Plinkett’s Next Review
-09/01/2010 | 01:07:00 | bit.ly/32VVhqn | Mr. Plinkett's Star Trek 2009 Review
-09/02/2010 | 00:01:46 | bit.ly/2UAY1VF | The New Review!! 
-10/04/2010 | 00:14:07 | bit.ly/2UBpUNk | Behind the Scenes – Star Wars: Episode III Review Teaser Trailer 
-12/25/2010 | 00:02:00 | bit.ly/38POlif | Merry Christmas 
-12/31/2010 | 01:41:12 | bit.ly/36BZhNX | Star Wars Episode III: Revenge of the Sith
-01/15/2011 | 00:02:23 | bit.ly/2IBPsHW | Episode 3 Review is now up... 
-02/02/2011 | 00:00:50 | bit.ly/2IOmc0p | Revenge of Nadine The Episode III Review Epilogue Trailer
-02/07/2011 | 00:02:00 | bit.ly/3f7atG9 | Mr. Plinkett Update and More! 
-03/16/2011 | 00:01:00 | bit.ly/2IKLtst | Toronto Comic Con THIS weekend! 
-06/24/2011 | 00:23:31 | bit.ly/32PnSh9 | Mr. Plinkett's Cop Dog Review
-06/26/2011 | 00:01:44 | bit.ly/3fbeppu | Plinkett's NEW Review is up nao!
-12/20/2011 | 00:04:00 | bit.ly/3pFe3Mj | Harry's Next Review
-12/23/2011 | 01:10:27 | bit.ly/32SLx0f | Indiana Jones and the Kingdom of the Crystal Skull Review 
-03/14/2012 | 00:04:20 | bit.ly/2KeWv9H | New DVD! Red Letter Media Archive Collection 1 
-06/26/2012 | 00:02:24 | bit.ly/36DJrCc | Rise of the Plinkett 
-08/04/2012 | 00:01:21 | bit.ly/38Tn0M4 | Star Wars: A New Hope Commentary Track now available! 
-09/28/2012 | 00:02:40 | bit.ly/36Mm4GU | Jay, Mike, and Jack live Q&A!
-11/02/2012 | 00:02:04 | bit.ly/2KjAYNe | RLM DVD and Next Review Update 
-12/09/2012 | 01:01:20 | bit.ly/3nzFSUM | Mr. Plinkett Review: Titanic
-01/06/2013 | 00:04:05 | bit.ly/2Uyt8kK | Behind the scenes of Mr. Plinkett's Titanic Review
-03/08/2013 | 00:02:49 | bit.ly/3pGDkpo | Mr. Plinkett's Star Trek V Commentary
-06/01/2013 | 00:07:16 | bit.ly/38OHKVr | Star Trek: Into Reference 
-05/05/2014 | 00:01:50 | bit.ly/2UC6Iiu | Red Letter Media is on Patreon!
-11/30/2014 | 00:08:50 | bit.ly/36Go7fw | Mr. Plinkett Reacts to the Star Wars: The Force Awakens Trailer 
-05/05/2015 | 00:12:38 | bit.ly/2UzDjFt | Cinco de Star Wars 
-03/09/2016 | 00:04:00 | bit.ly/3lGDE57 | The Plinkett Awakens 
-10/02/2016 | 01:45:07 | bit.ly/3kH7JAc | The Star Wars Awakens Review 
-12/26/2016 | 00:07:32 | bit.ly/3pFlgMn | Mr. Plinkett Talks About Rogue One 
-01/01/2017 | 00:11:58 | bit.ly/2KmrwZD | Mr. Plinkett Responds to Comments on his Video Commenting on Disney’s Star Wars Rogue One! 
-06/26/2017 | 00:58:11 | bit.ly/3nBvGLw | Mr. Plinkett’s Transformers: The Last Knight Review
-08/07/2017 | 00:01:49 | bit.ly/2UD7ZWA | The Next Plinkett Review (Ghostbusters 2016)
-08/08/2017 | 00:58:00 | bit.ly/3pFsq3i | Ghostbusters (2016) Review
-10/30/2017 | 00:16:03 | bit.ly/2UEkTU5 | Zombie Review 
-08/28/2018 | 00:58:10 | bit.ly/36JGdNQ | Star Wars: The Last Plinkett Review 
-04/13/2019 | 00:04:39 | bit.ly/3lTgvwo | No One's Ever Really Gone
-05/18/2020 | 01:34:03 | bit.ly/3pCpvsj | Mr. Plinkett's Star Trek Picard Review
+12/12/2008 | 00:29:44 | bit.ly/3pFn6Nz | Star Trek: Generations Review
+05/06/2009 | 00:37:05 | bit.ly/3kNtONN | Star Trek: First Contact Review
+06/10/2009 | 00:34:57 | bit.ly/3fonCLa | Star Trek: Insurrection Review
+08/13/2009 | 00:38:22 | bit.ly/3pGOMBL | Star Trek: Nemesis
+12/10/2009 | 01:09:01 | bit.ly/3pO3RkG | Star Wars: The Phantom Menace Review
+12/20/2009 | 00:06:31 | bit.ly/3lP9nRY | Phantom Menace Review Interview Outtakes
+01/31/2010 | 00:18:18 | bit.ly/2IO099T | Avatar Review
+04/03/2010 | 01:27:41 | bit.ly/36QjC1X | Mr. Plinkett's Attack of the Clones Review
+05/07/2010 | 00:05:02 | bit.ly/334wYqu | Mr. Plinkett's Star Wars Episode II Outtakes
+06/17/2010 | 00:24:52 | bit.ly/3334IEt | Baby's Day Out Review
+06/21/2010 | 00:00:47 | bit.ly/35OzLWg | New Review Up
+07/15/2010 | 00:01:09 | bit.ly/3900PUH | Plinkett’s Next Review
+09/01/2010 | 01:07:00 | bit.ly/3lO39l3 | Mr. Plinkett's Star Trek 2009 Review
+09/02/2010 | 00:01:46 | bit.ly/393W4td | The New Review!! 
+10/04/2010 | 00:14:07 | bit.ly/2ULsqRk | Behind the Scenes – Star Wars: Episode III Review Teaser Trailer 
+12/25/2010 | 00:02:00 | bit.ly/3nDqJ4E | Merry Christmas 
+12/31/2010 | 01:41:12 | bit.ly/3kRRIHU | Star Wars Episode III: Revenge of the Sith
+01/15/2011 | 00:02:23 | bit.ly/3nETcqF | Episode 3 Review is now up... 
+02/02/2011 | 00:00:50 | bit.ly/2ULcLkI | Revenge of Nadine The Episode III Review Epilogue Trailer
+02/07/2011 | 00:02:00 | bit.ly/2HmOBtY | Mr. Plinkett Update and More! 
+03/16/2011 | 00:01:00 | bit.ly/333Xe42 | Toronto Comic Con THIS weekend! 
+06/24/2011 | 00:23:31 | bit.ly/3nKBamT | Mr. Plinkett's Cop Dog Review
+06/26/2011 | 00:01:44 | bit.ly/35PoMMB | Plinkett's NEW Review is up nao!
+12/20/2011 | 00:04:00 | bit.ly/2KqYNCQ | Harry's Next Review
+12/23/2011 | 01:10:27 | bit.ly/2HhNMT2 | Indiana Jones and the Kingdom of the Crystal Skull Review 
+03/14/2012 | 00:04:20 | bit.ly/3nGl6CH | New DVD! Red Letter Media Archive Collection 1 
+06/26/2012 | 00:02:24 | bit.ly/35JzmEK | Rise of the Plinkett 
+08/04/2012 | 00:01:21 | bit.ly/2IKr3A1 | Star Wars: A New Hope Commentary Track now available! 
+09/28/2012 | 00:02:40 | bit.ly/3nETA8B | Jay, Mike, and Jack live Q&A!
+11/02/2012 | 00:02:04 | bit.ly/3pNZt5h | RLM DVD and Next Review Update 
+12/09/2012 | 01:01:20 | bit.ly/2HjbyOF | Mr. Plinkett Review: Titanic
+01/06/2013 | 00:04:05 | bit.ly/3pKgVHZ | Behind the scenes of Mr. Plinkett's Titanic Review
+03/08/2013 | 00:02:49 | bit.ly/2IKr6fb | Mr. Plinkett's Star Trek V Commentary
+06/01/2013 | 00:07:16 | bit.ly/2Kkzi5X | Star Trek: Into Reference 
+05/05/2014 | 00:01:50 | bit.ly/36VIvt0 | Red Letter Media is on Patreon!
+11/30/2014 | 00:08:50 | bit.ly/390cSBi | Mr. Plinkett Reacts to the Star Wars: The Force Awakens Trailer 
+05/05/2015 | 00:12:38 | bit.ly/3pO5eQm | Cinco de Star Wars 
+03/09/2016 | 00:04:00 | bit.ly/2HoyM64 | The Plinkett Awakens 
+10/02/2016 | 01:45:07 | bit.ly/3lPlka7 | The Star Wars Awakens Review 
+12/26/2016 | 00:07:32 | bit.ly/3fsQTo5 | Mr. Plinkett Talks About Rogue One 
+01/01/2017 | 00:11:58 | bit.ly/2UIPBvl | Mr. Plinkett Responds to Comments on his Video Commenting on Disney’s Star Wars Rogue One! 
+06/26/2017 | 00:58:11 | bit.ly/2IRcVoe | Mr. Plinkett’s Transformers: The Last Knight Review
+08/07/2017 | 00:01:49 | bit.ly/3kLZzXt | The Next Plinkett Review (Ghostbusters 2016)
+08/08/2017 | 00:58:00 | bit.ly/36MYud2 | Ghostbusters (2016) Review
+10/30/2017 | 00:16:03 | bit.ly/3fj6OVy | Zombie Review 
+08/28/2018 | 00:58:10 | bit.ly/36TMUwQ | Star Wars: The Last Plinkett Review 
+04/13/2019 | 00:04:39 | bit.ly/2KpxPLU | No One's Ever Really Gone
+05/18/2020 | 01:34:03 | bit.ly/35ND5Bm | Mr. Plinkett's Star Trek Picard Review
