@@ -8,7 +8,7 @@ mm/dd/yyyy | hh:mm:ss | x → transcript | title
 10/??/2009 | 00:00:38 | bit.ly/2KC0Qnv | Phantom Menace Teaser
 12/10/2009 | 01:09:01 | bit.ly/3pO3RkG | Star Wars: The Phantom Menace Review
 12/20/2009 | 00:06:31 | bit.ly/3lP9nRY | Phantom Menace Review Interview Outtakes
-01/31/2010 | 00:18:18 | bit.ly/2IO099T | Avatar Review
+01/30/2010 | 00:18:18 | bit.ly/2J9JePD | Avatar Review
 04/03/2010 | 01:27:41 | bit.ly/36QjC1X | Mr. Plinkett's Attack of the Clones Review
 05/07/2010 | 00:05:02 | bit.ly/334wYqu | Mr. Plinkett's Star Wars Episode II Outtakes
 06/17/2010 | 00:24:52 | bit.ly/3334IEt | Baby's Day Out Review
