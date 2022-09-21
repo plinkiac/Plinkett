@@ -23,13 +23,17 @@ PLINKETT:
 No, the first one.
 
 PALPATINE:
-No. I have foreseen your next review. It is unavoidable. It is your destiny.
+No.
+I have foreseen your next review.
+It is unavoidable.
+It is your destiny.
 
 PLINKETT:
 Cop Dog?
 
 PALPATINE:
-What? I can feel your anger.
+What?
+I can feel your anger.
 
 PLINKETT:
 Look, would you just get out of my bathroom?
@@ -38,7 +42,8 @@ PALPATINE:
 I sense great fear in you.
 
 PLINKETT:
-That's not fear you sense in me. That's taco salad.
+That's not fear you sense in me.
+That's taco salad.
 
 PALPATINE:
 Now...make the review.
