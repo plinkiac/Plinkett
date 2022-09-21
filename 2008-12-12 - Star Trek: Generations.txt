@@ -13,7 +13,8 @@ https://www.redlettermedia.blip.tv/file/3635043 (archive.ph/9wRVq)
 https://www.redlettermedia.com/plinkett-reviews/mr-plinketts-star-trek-generations-review
 
 PLINKETT:
-Star Trek: Generations is the stupidest movie ever made.It ruined everything.
+Star Trek: Generations is the stupidest movie ever made.
+It ruined everything.
 And not just Star Trek movies, but everything.
 Why make a video review of this movie after it's been out for, like, 14 years?
 Well, the truth is, I've got nothing better to do.
@@ -347,17 +348,17 @@ You know, and then finally, you know...
 PLINKETT:
 I realize he's, like, the captain, but according to everybody, Riker's the best pilot.
 
-GEORDI:
+LA FORGE:
 You're gonna need one heck of a pilot to pull that off.
 
-CAPTAIN JELLICO:
+JELLICO:
 Is that you?
 
-GEORDI:
+LA FORGE:
 I could do it.
 But truthfully, the man you want is Commander Riker.
 
-CAPTAIN JELLICO:
+JELLICO:
 And I don't think you're particularly good First Officer.
 But you are also the best pilot on the ship.
 
@@ -473,8 +474,6 @@ All right, I know exactly where I want to go.
 To the mountaintop on Veridian 3, just before Soran destroyed the star.
 I have to stop him!
 But I need help.
-
-PICARD:
 James T. Kirk...
 
 PLINKETT:
@@ -482,17 +481,9 @@ So Picard's, like, "Come back with me."
 
 PICARD:
 I need your help!
-
-PICARD:
 We have to go back to a planet, Veridian 3!
-
-PICARD:
 Come back with me.
-
-PICARD:
 Millions of lives are at stake!
-
-PICARD:
 Help me stop Soran.
 
 PLINKETT:
@@ -500,8 +491,6 @@ PLINKETT:
 
 PICARD:
 I want you to leave the Nexus with me!
-
-PICARD:
 We have to stop a man called Soran from destroying a star!
 
 PLINKETT:
@@ -587,7 +576,7 @@ Maybe he wanted to know what they knew about his experiments.
 Worf already knew what tri-, primiphium was.
 
 WORF:
-They were scanning for signature particles of a compound called trilithium.
+They were scanning for signature particles of a compound called "trilithium".
 
 RIKER:
 Trilithium?
@@ -608,7 +597,7 @@ Number 14.
 Why can't they scan Veridian 3?
 What kind of stupid shit is this?
 
-WORF:
+RIKER:
 Any luck, Mr. Worf?
 
 WORF:
