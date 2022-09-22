@@ -417,8 +417,7 @@ UHURA:
 It doesn't make sense!
 
 SPOCK:
-Ms.
-Uhura, your last subspace log contained an error in the frequencies column.
+Ms. Uhura, your last subspace log contained an error in the frequencies column.
 
 PLINKETT:
 She couldn't even speak a word of Klingon well into her 70's.
