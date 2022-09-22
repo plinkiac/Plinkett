@@ -1637,7 +1637,7 @@ This is the most basic and simplistic way to shoot dialogue scenes.
 Now to spice it up, at almost the exact same moment in a scene when the shot/reverse shot starts to get boring, a character will walk away, go over to a window and then look out the window.
 
 LUCAS:
-When you say, "I want more, but I know I shouldn't"?
+When you say, "I want more, but I know I shouldn't..."
 
 CHRISTENSEN:
 Mm-hmm.
