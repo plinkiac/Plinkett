@@ -624,7 +624,7 @@ Everyone would offer up ideas from each character's own unique perspective.
 PICARD:
 Comments?
 
-RYKER:
+RIKER:
 I recommend that I return to the cruiser with an away team.
 
 RO:
@@ -650,7 +650,7 @@ PICARD:
 We can't do that.
 If we send that ship back with new technology, we'll be altering the past.
 
-RYKER:
+RIKER:
 I agree.
 We're at war.
 
@@ -663,7 +663,7 @@ Not from us, but certainly from them.
 WORF:
 Perhaps we should reverse course?
 
-RYKER:
+RIKER:
 For all we know, reversing course may be what leads us into the crash.
 
 PICARD:
@@ -672,7 +672,7 @@ All right, Mr. La Forge.
 BARCLAY:
 I don't agree.
 
-RYKER:
+RIKER:
 A concussive charge would blow out the security fields.
 We can go in with our phasers in a wide beam, stun everybody.
 Sort it out later.
