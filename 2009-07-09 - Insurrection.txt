@@ -119,7 +119,7 @@ So why would Starfleet send an Android who still doesn't really understand emoti
 PICARD:
 His emotion chip?
 
-LA FORGE:
+GEORDI:
 He didn't take it with him.
 
 PLINKETT:
@@ -596,7 +596,7 @@ Stand ready to initiate transporter code 14 at my signal.
 PICARD:
 You have got orders, commander, and I expect you to follow them.
 
-LA FORGE:
+GEORDI:
 Captain, how could I look at another sunrise knowing...
 
 PLINKETT:
