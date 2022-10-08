@@ -1076,7 +1076,7 @@ What mattered in Star Wars is the story, the adventures, and the emotions.
 It's a pretty clear-cut example of the difference between the two: science fiction and science fantasy.
 Not to say that Star Trek didn't also deal in characters, adventure, and emotion, but the series is more heavily based in the technical nuances of how things work.
 
-LA FORGE:
+GEORDI:
 Matter-antimatter mixture ratio settings...at optimum balance.
 Reaction sequence...corresponding to specified norms.
 Magnetic plasma transfer to warp field generators per program specs.
