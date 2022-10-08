@@ -261,7 +261,7 @@ That's because it hasn't been invented yet.
 LILY SLOANE:
 What?
 
-LA FORGE:
+GEORDI:
 We all grew up hearing about what you did here.
 
 RIKER:
@@ -528,7 +528,7 @@ There's a risk that we hit the dish.
 It's charged with antiprotons.
 We could destroy half the ship.
 
-LA FORGE:
+GEORDI:
 Captain, I've reconfigured our warp field to match the chronometric readings of the Borg sphere.
 
 PICARD:
