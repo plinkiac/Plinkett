@@ -323,7 +323,7 @@ So we've established that Shinzon wanted Picard to find the Android.
 So why did he make it so hard and dangerous to find?
 It was placed on a planet with dangerous ion storms, or something, that prevented them from using their transporters.
 
-LA FORGE:
+GEORDI:
 I wouldn't recommend using the transporter.
 That ion storm doesn't look very neighborly.
 
@@ -509,7 +509,7 @@ And then pay a prostitute to write a suicide note for you.
 And then push her down a well to make sure she don't no body.
 The point is, Romulans are on the business of dirty business.
 
-LA FORGE:
+GEORDI:
 Why are you doing this?
 
 PLINKETT:
@@ -534,7 +534,7 @@ So, for one, how did Shinzon and them escape and have the time to build the Scim
 Furthermore, how does a kid who never went to school, and a bunch of monsters at work in a mine, have the resources or know-how to even build a massive ship like that?
 With a perfect cloak.
 
-LA FORGE:
+GEORDI:
 His cloak is perfect.
 
 SHINZON:
@@ -745,7 +745,7 @@ PLINKETT:
 No they're not.
 Picard has an artificial heart.
 
-LA FORGE:
+GEORDI:
 Initiate the force field.
 
 PLINKETT:
@@ -921,7 +921,7 @@ Oh, wait.
 That timeline didn't happen.
 No, Geordi La Forge became the captain of the USS Challenger.
 
-LA FORGE:
+GEORDI:
 This is Captain La Forge of the starship Challenger.
 
 PLINKETT:
