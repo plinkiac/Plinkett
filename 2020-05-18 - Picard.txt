@@ -1461,7 +1461,8 @@ And he's treating Soji like, uh, another officer on his ship.
 And he's no longer the captain, and she doesn't work for him.
 And...
 
-MERIBOR:This isn't just a very long drought, is it, father?
+MERIBOR:
+This isn't just a very long drought, is it, father?
 
 PLINKETT:
 Or get a life!
@@ -1476,7 +1477,8 @@ Romulan warships do not enter Federation space unless they are prepared to do ba
 PLINKETT:
 But Picard says,
 "Hey, let's help 'em."
-So he does help.He takes a bunch of Romulans do a dusty Wild West planet.
+So he does help.
+He takes a bunch of Romulans do a dusty Wild West planet.
 And I guess a, a first wave of, of evacuations?
 
 PICARD:
@@ -1526,10 +1528,13 @@ But then synths attack Mars at the worst possible time.
 And blow up the shipyards building ships that are meant for a Romulan evacuation.
 They hack the brain of this robot synth right here, and he tells all the other synths to kill everyone and blow up everything.
 This whole plan was done by the secret half-Vulcan-half-Romulan spy, Commodore Oh, who is somehow the head of Starfleet security.
-RAFFI:She burrows into Starfleet, rises through the ranks, and becomes head of security.
+
+RAFFI:
+She burrows into Starfleet, rises through the ranks, and becomes head of security.
 
 PLINKETT:
-What?They don't vet people in the 24th century?
+What?
+They don't vet people in the 24th century?
 
 T'PEL:
 The logical course is that I transport aboard your ship and begin the negotiations.
@@ -1558,12 +1563,14 @@ It could significantly redefine the boundaries of personal liberty and freedom.
 Expanding them for some.
 Savagely curtailing them for others.
 
-AGNES:The androids that destroyed Mars came from this lab.
+AGNES:
+The androids that destroyed Mars came from this lab.
 
 PICARD:
 Are you prepared to condemn him and all who come after him, to servitude and slavery.
 
-RAFFI:Not if we use synthetic labor.
+RAFFI:
+Not if we use synthetic labor.
 
 PLINKETT:
 He was really quite impassioned about it before.
@@ -1576,7 +1583,8 @@ Maybe even get the attention of the evil robot space octopus!
 Why not just quietly look for the secret synth planet?
 It wasn't too hard for our heroes to find Bruce Maddox.
 
-RAFFI:I found Maddox.
+RAFFI:
+I found Maddox.
 
 PLINKETT:
 He's literally sitting in a public place.
@@ -1603,7 +1611,8 @@ Be like,
 "This terrible fucking thing could happen if we all make a bunch of synths."
 "How about we stop doing that?"
 "Just look for yourselves, okay?"
-"There's this electrical ring on this planet.""And maybe you could kind of build a device that touches the laser instead of grabbing it by your hands, which, which makes you wanna claw your eyes out or shoot yourself in the head."
+"There's this electrical ring on this planet."
+"And maybe you could kind of build a device that touches the laser instead of grabbing it by your hands, which, which makes you wanna claw your eyes out or shoot yourself in the head."
 "Some kind of Starfleet technical genius could figure out how to download the information that's in this electrical ring."
 "You know, because grabbing it is really fucking dangerous?""
 
