@@ -70,7 +70,7 @@ Ensign, when should the results be known?
 SPOCK:
 I have activated the device, captain.
 
-WESLEY CRUSHER:
+WESLEY:
 This should happen very quickly, sir.
 
 PLINKETT:
