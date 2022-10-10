@@ -167,7 +167,7 @@ It may be necessary to remove these people by force.
 PLINKETT:
 But this time Wesley Crusher tries to do his own Insurrection thing.
 
-WESLEY CRUSHER:
+WESLEY:
 They're preparing to beam you away and take you to their ship.
 You're not gonna let them do that are you?
 
@@ -189,32 +189,32 @@ Take cover!
 PICARD:
 And you made it already tense situation worse.
 
-WESLEY CRUSHER:
+WESLEY:
 What you're doing down there is wrong.
 
 PICARD:
 Frankly, right now, I don't care.
 
-WESLEY CRUSHER:
+WESLEY:
 These people are not some random group of colonists.
 They're a unique culture with a history that predates the Federation and Starfleet.
 
 PICARD:
 That does not alter the fact that my orders...
 
-WESLEY CRUSHER:
+WESLEY:
 I know Admiral Nechayev gave you an order.
 
 VICE ADMIRAL DOUGHERTY:
 I'm ordering you to the Goron system.
 
-WESLEY CRUSHER:
+WESLEY:
 And she was given an order from the Federation Council.
 
 VICE ADMIRAL DOUGHERTY:
 I'm acting on orders from the Federation Council.
 
-WESLEY CRUSHER:
+WESLEY:
 But it's still wrong.
 
 PICARD:
@@ -503,7 +503,7 @@ How does a two button command bring up such a specific thing on a computer scree
 Now, in normal operations when doing a pretty basic task, it seems like they always press a million buttons.
 Even when nothing is going on, they're pressing buttons.
 
-BEVERLY CRUSHER:
+BEVERLY:
 So, how was the reunion?
 
 PLINKETT:
