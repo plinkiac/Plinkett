@@ -634,7 +634,7 @@ It would be painful, but it wouldn't cause any physical harm.
 DATA:
 An interesting suggestion, Lieutenant.
 
-BEVERLY CRUSHER:
+BEVERLY:
 What if they're trying to undermine our history for some reason?
 
 WORF:
@@ -654,7 +654,7 @@ RIKER:
 I agree.
 We're at war.
 
-BEVERLY CRUSHER:
+BEVERLY:
 There's been no formal declaration of war.
 
 TROI:
@@ -935,7 +935,7 @@ Zipping around from one spot to the next without any mention of fuel or how long
 That's where the fantasy was.
 In Star Trek, a light craft could take days or weeks or months to reach another star system.
 
-WESLEY CRUSHER:
+WESLEY:
 ETA 1330 hours, sir.
 It's not exactly warp speed.
 
