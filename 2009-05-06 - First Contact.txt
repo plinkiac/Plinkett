@@ -408,7 +408,7 @@ But you better be sure you save Earth, because if you don't, then you'll get a c
 Military orders are flexible, I guess.
 Again, just like Counselor Troi.
 
-CRUSHER:
+BEVERLY:
 You're unusually limber this morning.
 
 PLINKETT:
@@ -758,7 +758,7 @@ Please state your medical emergency.
 According to Starfleet medical research, Borg implants can cause severe skin irritations.
 Perhaps you'd like an analgesic cream.
 
-BEVERLY CRUSHER:
+BEVERLY:
 Twenty Borg are about to break through that door!
 We need time to get out of here!
 Create a diversion!
@@ -767,7 +767,7 @@ THE DOCTOR:
 This isn't part of my programme.
 I'm a doctor, not a doorstop.
 
-BEVERLY CRUSHER:
+BEVERLY:
 Well, do a dance!
 Tell a story!
 I don't care!
